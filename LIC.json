@@ -1,1 +1,12 @@
 
+{
+  "data": {
+    "company": "Customer Name",
+    "product": "Changeover Time App",
+    "licenseKey": "CHANGEOVER-CUSTOMER-001",
+    "machineId": "CUSTOMER_MACHINE_ID_HERE",
+    "expiry": "2026-12-31",
+    "status": "active"
+  },
+  "signature": "PASTE_RSA_SIGNATURE_HERE"
+}
